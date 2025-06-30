@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1697761389 source:d:\codeblocks ejercicios\juego final santiago zurlo\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"jugador.h"
+	"lista.h"
+
+1697759684 d:\codeblocks ejercicios\juego final santiago zurlo\jugador.h
+	"lista.h"
+
+1697751890 d:\codeblocks ejercicios\juego final santiago zurlo\lista.h
+
+1697751890 source:d:\codeblocks ejercicios\juego final santiago zurlo\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1697758256 source:d:\codeblocks ejercicios\juego final santiago zurlo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+
+1697759755 d:\codeblocks ejercicios\juego final santiago zurlo\juego.h
+	"lista.h"
+
+1697761120 source:d:\codeblocks ejercicios\juego final santiago zurlo\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"pregunta.h"
+
+1697759684 d:\codeblocks ejercicios\juego final santiago zurlo\pregunta.h
+	"lista.h"
+
+1697762075 source:d:\codeblocks ejercicios\juego final santiago zurlo\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+	"lista.h"
+	"pregunta.h"
+	"juego.h"
+
+1748980690 source:d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"jugador.h"
+	"lista.h"
+	"pregunta.h"
+	"juego.h"
+
+1697759684 d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\jugador.h
+	"lista.h"
+
+1697751890 d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\lista.h
+
+1697759684 d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\pregunta.h
+	"lista.h"
+
+1697759755 d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\juego.h
+	"lista.h"
+
+1697761389 source:d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"jugador.h"
+	"lista.h"
+
+1697751890 source:d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+
+1697758256 source:d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"juego.h"
+
+1697761120 source:d:\codeblocks ejercicios\porgramacion 1er a—o\juego final santiago zurlo\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	"pregunta.h"
+

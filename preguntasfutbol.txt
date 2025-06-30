@@ -1,0 +1,118 @@
+En que ano se celebro la primera Copa del Mundo de la FIFA?,1930,1950,1960,1970,1
+Cual de los siguientes equipos ha ganado mas Copas del Mundo?,Brasil,Argentina,Alemania,Italia,1
+Que pais es conocido como la cuna del futbol?,Inglaterra,Francia,Brasil,Argentina,1
+Quien es el maximo goleador en la historia de la Copa del Mundo?,Pele,Diego Maradona,Miroslav Klose,Lionel Messi,3
+Cual es el club de futbol con mas titulos de la Liga de Campeones de la UEFA?,Real Madrid,Barcelona,Liverpool,Bayern de Munich,1
+En que pais se encuentra el famoso estadio Maracana?,Brasil,Argentina,Uruguay,Chile,1
+Quien gano el Balon de Oro en 2020?,Lionel Messi,Cristiano Ronaldo,Neymar,Kylian Mbappe,1
+Cual es el tiempo reglamentario de un partido de futbol?,60 minutos,75 minutos,90 minutos,120 minutos,3
+Que jugador es conocido como "La Pulga"?,Lionel Messi,Cristiano Ronaldo,Neymar,Andres Iniesta,1
+Cual es el deporte mas popular en el mundo?,Futbol,Baloncesto,Tenis,Beisbol,1
+Cuantos jugadores componen un equipo de futbol en el campo?,10,9,11,12,3
+En que pais se origino el futbol?,Inglaterra,Francia,Italia,Espana,1
+Cual es el apodo de la seleccion nacional de Mexico?,El Tri,Los Charruas,La Roja,Los Cafeteros,1
+Quien es conocido como el "Emperador" en el futbol?,Adriano,Ronaldo,Ronaldinho,Pele,2
+Cual de estos paises nunca ha ganado la Copa del Mundo?,Espana,Argentina,Portugal,Alemania,3
+En que ciudad se encuentra el Camp Nou?,Barcelona,Madrid,Paris,Milan,1
+Cual de los siguientes jugadores es conocido como "CR7"?,Cristiano Ronaldo,Lionel Messi,Andres Iniesta,Neymar,1
+Cual es el torneo de futbol mas prestigioso a nivel de clubes?,La Copa America,La Copa Libertadores,La Liga de Campeones de la UEFA,La Copa del Mundo de la FIFA,3
+Quien es el maximo goleador de la historia de la Liga de Campeones de la UEFA?,Cristiano Ronaldo,Lionel Messi,Raul,Ronaldo,1
+En que pais se encuentra el famoso estadio Santiago Bernabeu?,Italia,Espana,Francia,Inglaterra,2
+Quien es el actual entrenador del FC Barcelona?,Zinedine Zidane,Pep Guardiola,Xavi Hernandez,Ronald Koeman,3
+Cual es el record de goles marcados en una temporada de la Liga de Espana?,46,50,59,73,4
+En que pais se origino el futbol moderno?,Inglaterra,Espana,Brasil,Italia,1
+Que jugador es conocido como el "Bicho"?,Lionel Messi,Cristiano Ronaldo,Diego Maradona,Neymar,2
+Cual es el pais con mas Copas del Mundo ganadas?,Brasil,Argentina,Alemania,Italia,1
+Que equipo gano la Liga de Campeones de la UEFA en la temporada 2020-2021?,Real Madrid,Manchester City,Chelsea,Liverpool,3
+Quien es el maximo goleador de la historia de la seleccion de Alemania?,Miroslav Klose,Gerd Muller,Thomas Muller,Lukas Podolski,1
+Cual es el apodo de la seleccion nacional de Argentina?,La Albiceleste,Los Cafeteros,Los Charruas,La Roja,1
+En que pais se celebro la Copa del Mundo de 2018?,Francia,Brasil,Rusia,Alemania,3
+Quien es el entrenador actual del Real Madrid?,Carlo Ancelotti,Pep Guardiola,Zinedine Zidane,Jurgen Klopp,1
+Cual es el club de futbol mas antiguo del mundo?,Real Madrid,Fulham,AC Milan,Liverpool,2
+En que pais nacio Cristiano Ronaldo?,Portugal,Brasil,Argentina,Italia,1
+Quien gano la Copa America 2021?,Argentina,Brasil,Chile,Uruguay,1
+Cual es el pais con mas Copas de America ganadas?,Argentina,Brasil,Chile,Uruguay,1
+En que pais se encuentra el estadio Old Trafford?,Francia,Inglaterra,Alemania,Italia,2
+Cual de los siguientes equipos es conocido como los "Diablos Rojos"?,Manchester United,Arsenal,Manchester City,Chelsea,1
+Quien es el maximo goleador de la historia de la Liga de Italia?,Paolo Rossi,Alessandro Del Piero,Silvio Piola,Francesco Totti,3
+Cual es el equipo mas antiguo de Espana?,Real Madrid,FC Barcelona,Sevilla FC,Atletico de Madrid,3
+En que pais se celebro el Mundial de 1994?,Estados Unidos,Italia,Argentina,Mexico,1
+Quien es el jugador mas caro de la historia del futbol?,Kylian Mbappe,Cristiano Ronaldo,Neymar,Lionel Messi,1
+Cual de estos equipos no juega en la Serie A de Italia?,Roma,Inter de Milan,Barcelona,Napoli,3
+Cual es el record de goles marcados en una sola edicion de la Copa del Mundo de la FIFA?,10,13,15,18,3
+En que pais se encuentra el estadio Signal Iduna Park?,Dinamarca,Paises Bajos,Alemania,Austria,3
+Cual de los siguientes paises no ha ganado nunca la Copa del Mundo?,Francia,Inglaterra,Espana,Paises Bajos,3
+Quien es conocido como el "Fenomeno" en el futbol?,Ronaldo,Rivaldo,Ronaldinho,Pele,1
+Cual de los siguientes jugadores es conocido como "La Joya"?,Lionel Messi,Neymar,Paulo Dybala,Juan Roman Riquelme,3
+Cual es el nombre del estadio del Liverpool FC?,Anfield,Stamford Bridge,Old Trafford,Elland Road,1
+En que ciudad se encuentra el estadio La Bombonera?,Rio de Janeiro,Buenos Aires,Sao Paulo,Montevideo,2
+Quien es el entrenador actual de la seleccion de Brasil?,Tite,Carlos Queiroz,Jorge Sampaoli,Oscar Tabarez,1
+Cual es el pais con mas Copas de Africa ganadas?,Egipto,Argelia,Camerun,Nigeria,3
+Que equipo gano la Liga de Campeones de la UEFA en la temporada 2019-2020?,Liverpool,Real Madrid,Manchester City,Bayern de Munich,2
+Quien es el maximo goleador de la historia de la seleccion de Brasil?,Pele,Zico,Ronaldo,Ronaldinho,1
+Cual es el apodo de la seleccion nacional de Francia?,Les Bleus,Los Cafeteros,Los Charruas,La Roja,1
+En que pais se origino el futbol sala?,Brasil,Portugal,Argentina,Espana,2
+Que jugador es conocido como "El Apache"?,Carlos Tevez,Paulo Dybala,Sergio Aguero,Javier Mascherano,1
+Cual es el pais con mas titulos de la Copa Libertadores?,Argentina,Brasil,Chile,Uruguay,1
+Quien es el actual entrenador del FC Bayern de Munich?,Hans-Dieter Flick,Jurgen Klopp,Pep Guardiola,Lucien Favre,1
+Cual es el record de goles marcados en una temporada de la Liga de Espana?,36,40,48,50,3
+En que pais se encuentra el estadio San Siro?,Italia,Espana,Francia,Inglaterra,1
+Quien gano la Copa America 2019?,Brasil,Argentina,Chile,Uruguay,1
+Cual es el pais con mas Copas de Asia ganadas?,Corea del Sur,Arabia Saudita,Japon,Iran,3
+En que ciudad se encuentra el estadio Parc des Princes?,Paris,Londres,Berlin,Roma,1
+Cual de los siguientes equipos es conocido como los "Blues"?,Chelsea,Arsenal,Manchester City,Manchester United,1
+Quien es el maximo goleador de la historia de la Liga de Francia?,Edinson Cavani,Zlatan Ibrahimovic,Pauleta,Thierry Henry,2
+Cual es el equipo mas antiguo de Italia?,AC Milan,Inter de Milan,Juventus,Roma,3
+En que pais se celebro la Copa del Mundo de 2006?,Italia,Francia,Brasil,Alemania,4
+Quien es el jugador mas caro de la historia de la Premier League?,Harry Kane,Jack Grealish,Romelu Lukaku,Kai Havertz,4
+Cual de estos equipos no juega en la Bundesliga de Alemania?,Borussia Dortmund,Bayern de Munich,Milan,Schalke 04,3
+Cual es el record de goles marcados en una sola edicion de la Copa America?,8,10,13,15,2
+En que ciudad se encuentra el estadio Estadio Olimpico de Roma?,Milan,Roma,Florencia,Napoles,2
+Cual de los siguientes paises no ha ganado nunca la Copa de Africa?,Egipto,Argelia,Costa de Marfil,Camerun,2
+Quien es conocido como "El Pibe de Oro" en el futbol?,Diego Maradona,Lionel Messi,Carlos Tevez,Sergio Aguero,1
+Cual de los siguientes jugadores es conocido como "NJR10"?,Neymar,Lionel Messi,Andres Iniesta,Cristiano Ronaldo,1
+Cual es el nombre del estadio del Manchester City?,Etihad Stadium,Old Trafford,Anfield,Stamford Bridge,1
+En que ciudad se encuentra el estadio Monumental de River Plate?,Buenos Aires,Sao Paulo,Rio de Janeiro,Montevideo,1
+Quien es el entrenador actual de la seleccion de Argentina?,Lionel Scaloni,Gerardo Martino,Diego Simeone,Eduardo Berizzo,1
+Cual es el pais con mas titulos de la Copa Africana de Naciones?,Egipto,Argelia,Costa de Marfil,Nigeria,1
+Que equipo gano la Liga de Campeones de la UEFA en la temporada 2018-2019?,Real Madrid,Liverpool,Manchester City,Barcelona,2
+Quien es el maximo goleador de la historia de la seleccion de Argentina?,Diego Maradona,Lionel Messi,Gabriel Batistuta,Hernan Crespo,2
+Cual es el apodo de la seleccion nacional de Portugal?,La Roja,Les Bleus,Los Cafeteros,Selecao,4
+En que pais se origino el futbol de salon?,Brasil,Espana,Italia,Portugal,1
+Que jugador es conocido como "Kun"?,Carlos Tevez,Paulo Dybala,Sergio Aguero,Javier Mascherano,3
+Cual es el pais con mas Copas de la CONCACAF ganadas?,Estados Unidos,Mexico,Canada,Costa Rica,2
+Quien es el actual entrenador del Paris Saint-Germain?,Garnier,Unai Emery,Carlo Ancelotti,Thomas Tuchel,1
+Cual es el record de goles marcados en una temporada de la Premier League?,28,32,36,40,4
+En que ciudad se encuentra el estadio Wembley?,Londres,Paris,Milan,Barcelona,1
+Quien gano la Eurocopa 2020?,Italia,Inglaterra,Francia,Espana,1
+Cual es el pais con mas Copas de Oceania ganadas?,Nueva Zelanda,Australia,Fiyi,Solomon Islands,2
+En que pais se celebro la Copa del Mundo de 2014?,Brasil,Argentina,Alemania,Italia,1
+Quien es el jugador mas caro de la historia del futbol espanol?,Eden Hazard,Luka Jovic,Frenkie de Jong,Antoine Griezmann,1
+Cual de estos equipos no juega en la Eredivisie de los Paises Bajos?,Ajax,PSV Eindhoven,Feyenoord,Barcelona,4
+Cual es el record de goles marcados en una sola edicion de la Copa de Oro de la CONCACAF?,5,7,9,12,3
+En que ciudad se encuentra el estadio Parque de los Principes?,Paris,Londres,Berlin,Roma,1
+Quien es el actual entrenador del Borussia Dortmund?,Jurgen Klopp,Lucien Favre,Hans-Dieter Flick,Thomas Tuchel,2
+Cual es el record de goles marcados en una temporada de la Serie A de Italia?,26,29,32,36,2
+En que ciudad se encuentra el estadio Giuseppe Meazza?,Milan,Roma,Napoles,Turin,1
+Quien gano la Copa America 2016?,Chile,Argentina,Brasil,Uruguay,1
+Cual es el pais con mas titulos de la Copa de Asia?,Egipto,Argelia,Costa de Marfil,Nigeria,2
+En que pais se origino el futbol playa?,Brasil,Portugal,Argentina,Espana,1
+Que jugador es conocido como "La Roca"?,Ricardo Rodriguez,Diego Godin,Nemanja Matic,Sergio Busquets,2
+Cual es el pais con mas Copas de la Copa America ganadas?,Brasil,Argentina,Chile,Uruguay,4
+Quien es el actual entrenador del Bayern de Munich?,Hans-Dieter Flick,Pep Guardiola,Thomas Tuchel,Jurgen Klopp,1
+Cual es el record de goles marcados en una temporada de la Liga de Francia?,26,32,36,40,3
+En que ciudad se encuentra el estadio San Paolo?,Napoles,Roma,Milan,Turin,1
+Quien gano la Copa America 2015?,Chile,Argentina,Brasil,Uruguay,1
+Cual es el pais con mas titulos de la Copa de Oceania?,Nueva Zelanda,Australia,Fiyi,Solomon Islands,2
+En que pais se celebro la Copa del Mundo de 2010?,Sudafrica,Italia,Argentina,Brasil,1
+Quien es el jugador mas caro de la historia de la Bundesliga?,Erling Haaland,Jadon Sancho,Robert Lewandowski,Leroy Sane,4
+Cual de estos equipos no juega en la Liga de Portugal?,Benfica,Oporto,Sporting de Lisboa,Sevilla FC,4
+Cual es el record de goles marcados en una sola edicion de la Liga de Portugal?,30,36,40,43,3
+En que ciudad se encuentra el estadio Vodafone Park?,Estambul,Ankara,Atenas,Sofia,1
+Cual es el pais con mas titulos de la Copa de Oro de la CONCACAF?,Mexico,Estados Unidos,Canada,Costa Rica,1
+En que pais se origino el futbol de salon?,Brasil,Espana,Italia,Portugal,1
+Que jugador es conocido como "El Comandante"?,Carlos Tevez,Paulo Dybala,Andres Chavez,Javier Mascherano,3
+Cual es el pais con mas Copas de la CONCACAF ganadas?,Estados Unidos,Mexico,Canada,Costa Rica,2
+Cual es el record de goles marcados en una temporada de la Bundesliga?,24,31,40,42,3
+En que ciudad se encuentra el estadio Old Trafford?,Londres,Manchester,Liverpool,Leeds,2
+Quien gano la Eurocopa 2016?,Portugal,Francia,Italia,Espana,1
